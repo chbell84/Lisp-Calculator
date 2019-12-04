@@ -57,7 +57,7 @@ public class Parser {
 		Processor p = new Processor();
 		ArrayList<Object> command = parse(s);
 		//System.out.println(command);
-		System.out.println(p.execute(command));
+		System.out.println("Answer: " + p.execute(command));
 		System.out.println();
 		}
 		in.close();
