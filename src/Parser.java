@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-//import com.sun.org.apache.xpath.internal.functions.Function;
-	
 interface CmdInterface
 {
 	String execute(double a, double b);
