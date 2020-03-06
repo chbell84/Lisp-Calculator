@@ -7,6 +7,7 @@ The files are organized as an Eclipse project. There are no external dependancie
 
 Example input and output:
 
-  (+ 2 3)
-  5
-  (* (+ 2 3) 8)
+    (+ 2 3)
+    5
+    (* (+ 2 3) 8)
+    40
